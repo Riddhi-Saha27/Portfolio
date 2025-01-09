@@ -1,0 +1,23 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "Medical Document Managment System",
+            "description": "React.js, Springboot, AWS",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/2/two.png",
+            "title": "Car Dataset Analysis",
+            "description": "Python, Scikit-learn,Pandas",
+            "url": "https://github.com/Riddhi-Saha27/Car-Public"
+        },
+        {
+            "cover": "/portfolio/3/three.png",
+            "title": "Note-it",
+            "description": "React.js, Node.js",
+            "url": "https://github.com/Riddhi-Saha27/Note-t_project"
+        }
+
+    ]
+}
