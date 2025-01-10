@@ -1,5 +1,5 @@
 import './index.scss';
-import Sidebar from '/Users/Shared/D/Projects/Portfolio-2.0/react-portfolio/src/components/Layout/Sidebar';
+import Sidebar from '../Sidebar';
 import { Outlet } from 'react-router-dom';
 
 const Layout = () => {

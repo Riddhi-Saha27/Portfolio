@@ -1,5 +1,5 @@
 import './index.scss';
-import LogoS from '/Users/Shared/D/Projects/Portfolio-2.0/react-portfolio/src/assets/images/hoho.png';
+import LogoS from '../../../../assets/images/hoho.png'; 
 import { useEffect, useRef } from 'react';
 import { gsap } from 'gsap-trial';
 import { DrawSVGPlugin } from 'gsap-trial/DrawSVGPlugin';
