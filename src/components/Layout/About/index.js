@@ -79,20 +79,17 @@ const About = () => {
               idx={15}
             />
           </h1>
-          <p>
-            I'm a very ambitious front-end developer looking for a role in an
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+          <p align="LEFT">  
+            I am a driven and innovative Computer Science junior, passionate about solving complex problems through technology.  
+            I am seeking a Summer 2025 internship in software engineering, IT, or quantitative finance to apply my coding skills, collaborate on impactful projects, and gain hands-on experience with advanced technologies.  
+          </p>  
+          <p align="LEFT">  
+            Naturally curious and always learning, I’ve developed a strong interest in systems design to improve the quality and scalability of software.  
+            I am also exploring quantitative finance, leveraging analytical thinking and programming to tackle financial modeling challenges.  
+            Outside of coding, I’m a fitness enthusiast and football player with a passion for continuous improvement and teamwork.  
           </p>
-          <p align="LEFT">
-            I'm quiet confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
-          </p>
-          <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
-          </p>
+
+
 
           <div className="skill-buttons">
             <button
