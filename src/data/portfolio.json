@@ -6,6 +6,13 @@
             "description": "React.js, Springboot, AWS",
             "url": "https://github.com/Riddhi-Saha27/MDMS"
         },
+
+        {
+            "cover": "/portfolio/5/five.png",
+            "title": "Sign Gesture Detection System",
+            "description": "TenserFlow, Keras, Scikit-Learn",
+            "url": "https://github.com/Riddhi-Saha27/Action-Detection"
+        },
         {
             "cover": "/portfolio/2/two.png",
             "title": "Car Dataset Analysis",
