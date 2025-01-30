@@ -9,25 +9,6 @@ const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
   
     const nameArray = ['i', 'd', 'd', 'h', 'i']
-    const jobArray = [
-      'S',
-      'o',
-      'f',
-      't',
-      'w',
-      'a',
-      'r',
-      'e',
-      ' ',
-      'E',
-      'n',
-      'g',
-      'i',
-      'n',
-      'e',
-      'e',
-      'r',
-    ]
   
     useEffect(() => {
       const timeout = setTimeout(() => {
@@ -54,12 +35,6 @@ const Home = () => {
                 letterClass={letterClass}
                 strArray={nameArray}
                 idx={15}
-              />
-              <br />
-              <AnimatedLetters
-                letterClass={letterClass}
-                strArray={jobArray}
-                idx={22}
               />
             </h1>
             <h2>Computer Science Engineering, 2025, at Georgia State University</h2>

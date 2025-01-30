@@ -45,8 +45,10 @@ const Contact = () => {
               />
             </h1>
             <p>
-            I am currently seeking internship opportunities that align with my passion for technology and innovation.<br /><br />
-            I am particularly interested in roles focused on full-stack, backend, or frontend development. Additionally, I am eager to explore opportunities in machine learning and quantitative finance, where I can apply my problem-solving skills, deepen my technical expertise, and contribute to impactful projects.
+            I am actively seeking internship opportunities that align with my passion for technology, innovation, and problem-solving. My interests span full-stack development, backend engineering, and data-driven fields like data science and machine learning.<br></br>
+            </p>
+            <p>
+            I enjoy building scalable systems, analyzing complex datasets, and applying technical expertise to create impactful solutions. Whether developing robust applications or extracting insights from data, I am always eager to learn, adapt, and tackle challenging problems.
             </p>
           </div>
           <div className="contact-form">

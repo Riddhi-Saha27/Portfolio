@@ -33,10 +33,12 @@ const Portfolio = () => {
       id: 2,
       company: "Rocket Technologies, GSU",
       period: "Jan 2024 - Present",
-      details: `• Designed flight software using C++ to interface with an MPU6050 and log data to a SD Card.<br /><br />
-              • Performed data smoothing algorithms to enhance accuracy of recorded accelerometer data, ensuring reliable data collection and storage for flight analysis.<br /><br />
-              • Implemented data acquisition and logging from BMP280 sensor to flash memory, establishing accurate temperature and pressure readings at specified intervals.<br /><br />
-              • Designed and developed a real-time data transmission system with nRF24 to send sensor data to a ground station, facilitating immediate monitoring and analysis.`,
+      details: `• Collected and processed over 500 GB of flight telemetry data from multiple sensors, ensuring structured and accurate datasets.<br /><br />
+                • Analyzed 100+ sensor data points using Python libraries like Pandas and Matplotlib, detecting anomalies and optimizing
+                  system performance by 10%.<br /><br />
+                • Designed and maintained SQL databases with 25,000+ records, ensuring efficient storage, management, and retrieval of
+                  telemetry data for reporting and analysis.<br /><br />
+                • Developed interactive dashboards in Tableau and Power BI to visualize real-time flight data, improving decision making by 15%.`,
     },
     {
       id: 3,
@@ -56,8 +58,14 @@ const Portfolio = () => {
       id: 4,
       company: "RISE in Computing CIC Tutor",
       period: "Aug 2024 - Present",
-      details: `• Provide academic support and tutoring to students in Introductory Computer Science 1 (CS 1301) and Computer Science 2 (CS 1302) courses.<br /><br />
-              • Assist students in understanding core programming concepts, including object-oriented programming, data structures, algorithms, and problem-solving techniques.`,
+      details: `• Assisted students in understanding core computer science concepts, including data structures, algorithms, and
+                  object-oriented programming.<br /><br />
+                • Provided one-on-one tutoring and group study sessions to help students solve LeetCode-style problems and improve coding
+                  proficiency.<br /><br />
+                • Taught Python for data science and machine learning, covering NumPy, Pandas, Matplotlib, and scikit-learn for
+                  real-world data analysis.<br /><br />
+                • Guided students in debugging techniques, writing efficient code, and running test cases to improve problem-solving skills
+                  and code reliability.`,
     }
   ];
 

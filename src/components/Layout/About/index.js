@@ -81,7 +81,7 @@ const About = () => {
           </h1>
           <p align="LEFT">  
             I am a driven and innovative Computer Science junior, passionate about solving complex problems through technology.  
-            I am seeking a Summer 2025 internship in software engineering, IT, or quantitative finance to apply my coding skills, collaborate on impactful projects, and gain hands-on experience with advanced technologies.  
+            I am seeking a Summer 2025 internship in software engineering, IT, or datascience to apply my coding skills, collaborate on impactful projects, and gain hands-on experience with advanced technologies.  
           </p>  
           <p align="LEFT">  
             Naturally curious and always learning, I’ve developed a strong interest in systems design to improve the quality and scalability of software.  
